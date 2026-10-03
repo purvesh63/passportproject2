@@ -25,20 +25,6 @@ body {
     letter-spacing: 1px;
 }
 
-/* .user-menu {
-    display: flex;
-    align-items: center;
-    gap: 15px;
-} */
-
-/* .user-menu span {
-    color: black;
-    font-size: 25px;
-    margin-right: 500px;
-    font-weight: bold;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-} */
-
 .user-menu button {
     text-decoration: none;
     color: #fff;
